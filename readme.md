@@ -1,4 +1,4 @@
-<h1 align="center"> Calendario Copa </h1>
+<h1 align="center"> Calendario-Copa2022 </h1>
 
 <p align="center">
 Esse projeto foi desenvolvido com as seguintes tecnologias:
@@ -9,5 +9,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 </p>
 
 <p align="center">
-  <img alt="Calendario Copa" src=".github/Copa2022.jpg" width="100%">
+  <img alt="Calendario-Copa2022" src=".github/Copa2022.JPG" width="100%">
 </p>

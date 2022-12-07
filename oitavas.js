@@ -64,26 +64,26 @@ document.querySelector("#cards").innerHTML = `
         ${createCard("oitavas", 
             "03/12",
             "sábado",
-            createGame("NETHERLANDS", "INTERNACIONAL KHALIFA", "12:00", "UNITED STATES") +
-            createGame("ARGENTINA", "AHMAD BIN ALI", "16:00", "AUSTRALIA")
+            createGame("netherlands", "INTERNACIONAL KHALIFA", "12:00", "united states") +
+            createGame("argentina", "AHMAD BIN ALI", "16:00", "australia")
         )}
         ${createCard("oitavas", 
             "04/12",
             "domingo",
-            createGame("FRANCE", "AL THUMAMA", "12:00", "POLAND") +
-            createGame("ENGLAND", "AL BAYT", "16:00", "SENEGAL")
+            createGame("france", "AL THUMAMA", "12:00", "poland") +
+            createGame("england", "AL BAYT", "16:00", "senegal")
         )}
         ${createCard("oitavas", 
             "05/12",
             "segunda",
-            createGame("JAPAN", "AL JANOUB", "12:00", "CROATIA") +
-            createGame("BRAZIL", "ESTÁDIO 974", "16:00", "SOUTH KOREA")
+            createGame("japan", "AL JANOUB", "12:00", "croatia") +
+            createGame("brazil", "ESTÁDIO 974", "16:00", "south korea")
         )}
         ${createCard("oitavas", 
             "06/12",
             "terça",
-            createGame("MOROCCO", "CIDADE DA EDUCAÇÃO", "12:00", "SPAIN") +
-            createGame("PORTUGAL", "LUSAIL", "16:00", "SWITZERLAND")
+            createGame("morocco", "CIDADE DA EDUCAÇÃO", "12:00", "spain") +
+            createGame("portugal", "LUSAIL", "16:00", "switzerland")
         )}          
     </div>
 `

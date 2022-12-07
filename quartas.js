@@ -64,14 +64,14 @@ document.querySelector("#cards").innerHTML = `
         ${createCard("quartas", 
         "09/12",
         "sexta",
-        createGame("CROATIA", "CIDADE DA EDUCAÇÃO", "12:00", "BRAZIL") +
-        createGame("NETHERLANDS", "LUSAIL", "16:00", "ARGENTINA")
+        createGame("croatia", "CIDADE DA EDUCAÇÃO", "12:00", "brazil") +
+        createGame("netherlands", "LUSAIL", "16:00", "argentina")
         )}
         ${createCard("quartas", 
             "10/12",
             "sábado",
-            createGame("MOROCCO", "AL THUMAMA", "12:00", "PORTUGAL") +
-            createGame("ENGLAND", "AL BAYT", "16:00", "FRANCE")
+            createGame("morocco", "AL THUMAMA", "12:00", "portugal") +
+            createGame("england", "AL BAYT", "16:00", "france")
         )} 
     </div>
 `
